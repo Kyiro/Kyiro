@@ -8,5 +8,5 @@ I just code stuff when i have an idea.
 
 # Socials
 
-[![Twitter](https://img.shields.io/badge/@KyroHQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/KyroHQ)
+[![Twitter](https://img.shields.io/badge/@KyroHQ%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ky1ro)
 [![Discord](https://img.shields.io/badge/Kyiro%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.bio/p/kyiro)
